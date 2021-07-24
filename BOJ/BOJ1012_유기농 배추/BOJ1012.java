@@ -32,13 +32,13 @@ public class BOJ1012 {
 			for(int j=0; j<n; j++) {
 				for(int l=0; l<m; l++) {
 					if(checkList(j,l) == true) {
-						count++;
 						DFS(j,l);
+						count++;
 					}
 				}
 			}
 			sb.append(count+"\n");
-		} // 큰 for 문 끝
+		} 
 		System.out.println(sb);
 	}
 	public static boolean checkList(int row, int col) {
