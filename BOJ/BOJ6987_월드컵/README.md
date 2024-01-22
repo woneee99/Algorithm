@@ -1,4 +1,4 @@
-# 1987 월드컵
+# 6987 월드컵
 
 ### Solution
 * game 배열로 모든 경기를 확인
@@ -9,4 +9,4 @@
 * 브루트포스
 
 ### link
-https://www.acmicpc.net/problem/1987
+https://www.acmicpc.net/problem/6987

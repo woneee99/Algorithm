@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class boj1987 {
+public class boj6987 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
