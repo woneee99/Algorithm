@@ -1,9 +1,11 @@
 # [LEVEL 3] 단속카메라
 
 ### Solution
-1. 배열의 뒷 값으로 정렬한다.
-2. 현재의 뒷 값보다 다음의 앞 값이 클 때 다음 값이 현재 값이 된다.
-3. 현재가 변하는 개수가 답이 된다. 
+1. 출근 가능한 시간의 최대값을 구한다.
+2. 출근한 시간을 확인하며 출근 가능 시간을 초과 했는지 확인 후, 지각이면 false 처리
+
+### 다른 풀이
+1. 이벤트 요일(startday) 계산 과정에서 % 로 확인하면 if 문을 줄일 수 있다.
 
 ### link
-https://school.programmers.co.kr/learn/courses/30/lessons/42884
+https://school.programmers.co.kr/learn/courses/30/lessons/388351
